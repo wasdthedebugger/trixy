@@ -7,9 +7,7 @@ To use Trixy, you can clone this repo and run the `trixy.py` file, or you can do
 
 ## Security
 
-Since Trixy is still in development, she cannot always be trusted to run commands. There is a secure mode that you can enable while setting up Trixy. This will make Trixy ask you if you want to run a command before running it. To enable secure mode, type `secure` when Trixy asks you for a command. 
-
-If you want to run secure mode on a specific command, type `secure` before the command. For example, if you want to run `mkdir test` in secure mode, type `secure mkdir test`.
+Since Trixy is still in development, she cannot always be trusted to run commands. There is a secure mode that you can enable while setting up Trixy. This will make Trixy ask you if you want to run a command before running it. To enable secure mode, type `y` when Trixy asks you if you want to enable secure mode.
 
 ## Examples
 
